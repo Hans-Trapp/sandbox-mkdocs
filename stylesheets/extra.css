@@ -9,9 +9,18 @@ a:visited {
 
 a:hover {
   text-decoration: underline;
-}
+  text-decoration-style: dotted;
+}s
 
 a:active {
   text-decoration: underline;
+  text-decoration-style: dotted;
 }
+}  
+
+.md-banner {
+  height: 300px;
+  background-image: url('../assets/images/bandeau_agrion02.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: cover; // Fit inside container 
 }
