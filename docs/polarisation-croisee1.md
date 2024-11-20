@@ -11,7 +11,7 @@ Pour la prise de vue proprement dite, j'ai utilisé ici un Canon R6 MKII muni d'
 Pour cette série, j'ai utilisé de petits flashs Godox. Alternativement, deux MF12, spécifiquement destinés à la macro, et deux AD100. De tout petits flash de studio que j'appécie beaucoup. Ils disposent de tout un jeu d'accessoires : porte-filtres, modificateur de lumière, diffuseurs divers. Pour quelques euros, Godox fournit un adaptateur, référencé _MF-CB_, qui permet d'utiliser les accessoires de la gamme AD100 sur les MF12.
 
 !!! warning "Polarisation et diffusion"
-    Si vous intercalez un diffuseur entre votre filtre polarisant et le sujet, vous allez annuler, au moins partiellement son effet. La plupart du temps, je ne diffuse pas la lumière en polarisation croisée. Une source lumineuse d'une bonne taille par rapport une sujet, placée au plus près de celui-ci, vous procurera l'effet d'une large softbox.
+    Si vous intercalez un diffuseur entre votre filtre polarisant et le sujet, vous allez annuler, au moins partiellement, son effet. La plupart du temps, je ne diffuse pas la lumière en polarisation croisée. Une source lumineuse d'une bonne taille par rapport au sujet, placée au plus près de celui-ci, vous procurera l'effet d'une large softbox.
 
 ### Les filtres
 

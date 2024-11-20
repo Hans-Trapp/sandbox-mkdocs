@@ -15,8 +15,11 @@ plugins:
       type: custom
       custom_format: "Article mis à jour le %d/%m/%Y"
   - search
-
-    
+  - awesome-pages:
+        collapse_single_pages: true
+        order: asc
+        sort_type: natural
+        order_by: title
 
 markdown_extensions:
   - footnotes
@@ -39,7 +42,7 @@ theme:
     code: Roboto Mono
   palette:
     primary: grey
-    accent: red
+    accent: blue
 
   icon:
     admonition:
@@ -59,8 +62,6 @@ theme:
   features:
     - navigation.footer
     - navigation.indexes
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - navigation.path
@@ -71,7 +72,6 @@ theme:
     - toc.follow
     - content.footnote.tooltips
     - content.tooltips
-  
 
   # Additional configuration
 extra:
@@ -84,19 +84,3 @@ extra:
       link: https://www.facebook.com/pierre.kessler.771
     - icon: fontawesome/brands/deviantart
       link: https://www.deviantart.com/hans-trapp
- # generator: false
-
-nav:
-  - 'À propos':  
-    - 'Accueil': index.md
-    - 'Présention de MkDocs': mkdocs.md
-    - 'Exemples de typographie': specimen.md
-  - 'Photographie':
-      - 'En général':
-        - 'Critique bien conduite': critique-bien-conduite.md
-        - 'Images zoomables': images-zoomables.md
-      - 'Polarisation croisée':
-          - 'Introduction': polarisation-croisee.md
-          - 'Mise en place des filtres': polarisation-croisee1.md
-          - 'Réglages': polarisation-croisee2.md
-
