@@ -1,3 +1,5 @@
+# Des repères pour évaluer une image
+
 En m’inspirant très librement d’une grille de lecture proposée, en anglais, sur le site fameux de [Fred Miranda](http://fredmiranda.com), je vous propose ce petit questionnaire, destiné à faciliter une critique raisonnée et approfondie des photographies.
 
 ### Des éléments à prendre en compte

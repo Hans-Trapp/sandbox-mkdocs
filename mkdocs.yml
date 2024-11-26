@@ -97,6 +97,6 @@ nav:
         - 'Images zoomables': images-zoomables.md
       - 'Polarisation croisée':
           - 'Introduction': polarisation-croisee.md
-          - 'Mise en place des filtres': polarisation-croisee1.md
-          - 'Réglages': polarisation-croisee2.md
+          - 'Découper et positionner les filtres': polarisation-croisee1.md
+          
 

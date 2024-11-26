@@ -1,41 +1,23 @@
-# Polarisation croisée : préparation des filtres
+# Polarisation croisée : découper, positionner, règler les filtres
 
-Si vous n'utilisez qu'une seule source lumineuse, le réglage de la polarisation croisée sera très simple. Avec deux sources, c'est un peu plus compliqué... Mais je vous propose une façon de faire qui me permet de maîtriser rapidement mes éclairages.
+## Choisir sa découpe
 
-## Avec une seule source
+Suivant les sources lumineuses que je vais équiper, j'utilise trois formes de découpes différentes du filtre. Pour celles munies d'un porte-filtre rond, comme mes flashs Godox, je découpe un rond dans mon film polarisant. En utilisant un des filtres de couleurs livrés avec les accessoires du flash comme gabarit.
+Avec mes LED, qui ont un diffuseur tubulaire, je découpe un rectangle allongé qui sera fixé avec du ruban adhésif sur ledit diffuseur.
+Enfin, je garde un morceau de film plus grand, taille A6 environ, que je peux fixer sur un bras magique ou un statif de labo. Pour les sources lumineuses sur lesquelles je ne peux pas fixer directement mon film polarisant.
 
-Pour la prise de vue proprement dite, j'ai utilisé ici un Canon R6 MKII muni d'un objectif bien spécifique. Le mythique MPE 65mm f/2.8 dont Canon a aujourd'hui arrêté la fabrication. Il fonctionne fort bien sur les EOS de série R, avec la bague d'adaptation appropriée.
-
-### Les sources d'éclairage
-
-Pour cette série, j'ai utilisé de petits flashs Godox. Alternativement, deux MF12, spécifiquement destinés à la macro, et deux AD100. De tout petits flash de studio que j'appécie beaucoup. Ils disposent de tout un jeu d'accessoires : porte-filtres, modificateur de lumière, diffuseurs divers. Pour quelques euros, Godox fournit un adaptateur, référencé _MF-CB_, qui permet d'utiliser les accessoires de la gamme AD100 sur les MF12.
+Une fausse bonne idée serait d'utiliser votre filtre polarisant pour créer un *tunnel* autour du sujet, comme on pourrait le faire avec un diffuseur. Pas possible avec un tel montage de faire varier les angles de polarisation, surtout avec deux sources lumineuses...
+Il est préfarable de laisser les pellicules de protetion en place sur le film polarisant le temps d'effectuer vos découpes, et de les retirer ensuite.
 
 !!! warning "Polarisation et diffusion"
     Si vous intercalez un diffuseur entre votre filtre polarisant et le sujet, vous allez annuler, au moins partiellement, son effet. La plupart du temps, je ne diffuse pas la lumière en polarisation croisée. Une source lumineuse d'une bonne taille par rapport au sujet, placée au plus près de celui-ci, vous procurera l'effet d'une large softbox.
 
-### Les filtres
+## Avec une seule source
 
-Si vous avez déjà utilisé un polarisant pour vos photos de paysage, vous savez que ce filtre permet d'assombrir les ciels bleus et de gérer les reflets spéculaires. Le filtre est rotatif : vous le faites tourner jusqu'a obtenir l'effet d'assombrissement souhaité.
-Mais en macro, à priori, cela ne fonctionne pas, ou mal. En effet, si la lumière du soleil est bien polarisée, celle de vos LED ou flashes ne l'est pas. Il faut donc modifier votre source lumineuse pour que cette lumière-là soit effectivement polarisée. En adaptant un filtre polarisant sur **chacune** de vos sources lumineuses.
+Flash ou LED, avec une seule source lumineuse, vous n'avez pas besoin de modifier la position du filtre sur cette source pour rechercher la position d'extinction. La rotation du polarisant circulaire sur votre appareil photo vous permet le réglage nécessaire. Pour un flash, il est indispensable d'utiliser la lampe de mise au point intégrée. 
+Cadrez votre sujet, tournez le filtre polarisant de l'objectif jusqu'à obtenir la l'assombrissement maximal de l'image et l'atténuation des reflets. Vous avez atteint la position d'extinction.
 
-Le matériel spécifique utilisé se résume à peu de choses : un filtre polarisant circulaire et une plaque de film polarisant linéaire.
+## Rajouter la deuxième source
 
-Le film polarisant linéaire vaut environ 10 euros pour une feuille de format A5. Si le filtre destiné à l'objectif doit être de bonne qualité pour ne pas dégrader l'image, il n'en va pas de même pour ceux destinés aux sources lumineuses.
-Attention, évitez les films adhésifs, qui compliqueraient bien les manipulations. Les films sont revêtus, sur les deux faces, d'une pellicule de protection, qu'il faudra enlever.
-
-### Test du filtre
-
-Pour tester votre film, rien de plus simple. Tenez-le devant votre écran d'ordinateur, qui diffuse un lumière polarisée et faites tourner le film. La lumière transmise va diminuer progressivement jusqu'à arriver à un minimum, la position d'extinction. Notez cette position d'extinction par une petite flèche au marqueur sur le film. Ceci nous servira de repère pour le prochain épisode...
-
-### Avec deux sources
-
-## Exemple final
-
-Et re-voici le test d'oursin. Cette image est une zédification[^1] Sur la photo ci-dessous, remarquez la disparition des reflets. Deux flashs en polarisation croisée : mission accomplie.
-
-![Oursin](assets/images/oursin_final.jpg){ width="900" }
-/// caption
-Test d'oursin - polarisation croisée avec deux flashs Godox MF-12.
-///
-
-[^1]: _Focus-stacking_ en bon français. Absent des dictionnaires usuels, mais décrit dans [Wikipedia](https://fr.wikipedia.org/wiki/Z%C3%A9dification){:target="\_blank"}.
+Une fois cette première source règlée, éteignez là. Sans toucher aux positions des filtres, ni sur cette source, ni sur l'objectif.
+Allumez maintenant la deuxième. Effectuez la recherche de la position d'extinction comme ci-dessus. Mais en tournant uniquement le filtre positionné devant cette seconde source. Voilà, c'est fini. Reste à prendre de belles photos.
