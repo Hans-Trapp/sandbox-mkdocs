@@ -22,6 +22,11 @@ a:active {
   height: 380px;
   background-image: url('../assets/images/bandeau_obermodern.jpg'); 
   background-repeat: no-repeat; 
-  background-size: cover; // Fit inside container 
+  background-size: cover;
 }
-
+.md-nav--primary {
+    font-size: .75rem;
+    line-height: 1.5;
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+}
